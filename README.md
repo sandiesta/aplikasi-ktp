@@ -29,7 +29,7 @@ password: 123456
 email: user@mail.com
 password: 123456
 ```
-6. Import 40.000 data sql to database
+6. Import 40.000 data sql from file data.sql in folder database
 
 ## License
 
